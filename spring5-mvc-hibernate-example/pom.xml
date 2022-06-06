@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 	<properties>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
-		<spring.version>5.0.0.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<hibernate.version>5.4.24.Final</hibernate.version>
 		<hibernate.validator>5.4.2.Final</hibernate.validator>
 		<c3p0.version>0.9.5.4</c3p0.version>
